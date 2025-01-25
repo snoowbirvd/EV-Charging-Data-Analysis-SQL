@@ -117,3 +117,7 @@ GROUP BY user_id
 HAVING AVG(duration_hours) > 10
 ORDER BY avg_charging_duration DESC;
 ```
+
+### Visualization
+
+Didn't include but it can be visualized using tools such as Python with libraries like Matplotlib or Seaborn, or by using Business Intelligence tools like Tableau or Power BI. These tools can connect directly to the database and create interactive dashboards to help stakeholders better understand the insights.
