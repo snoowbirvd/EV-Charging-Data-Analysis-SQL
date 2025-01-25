@@ -40,10 +40,6 @@ Write three SQL queries to answer the following questions:
 - Determine when (weekday + hour) most shared charging sessions start.
 - Find users whose average charging duration exceeds 10 hours when using shared stations.
 
-## How We Solved It
-
-Below is a concise explanation of the technical steps we took for each part. (Short code snippets are included in code blocks for clarity.)
-
 ### Used SQL for:
 
 - Data Aggregation and Filtering
